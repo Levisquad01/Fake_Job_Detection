@@ -37,10 +37,10 @@ The model uses:
 ### 📊 Deployed Model
 
 - Logistic Regression
-- Accuracy: **95.67%**
-- Precision: **53.00%**
-- Recall: **91.91%**
-- F1 Score: **67.23%**
+- Accuracy: **98.43%**
+- Precision: **80.95%**
+- Recall: **88.43%**
+- F1 Score: **84.53%**
 
 **Why this model?**
 
