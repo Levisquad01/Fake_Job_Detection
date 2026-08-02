@@ -258,11 +258,6 @@ The Analytics Dashboard provides insights into the dataset through visualization
 
 ---
 
-## 📈 Model Evaluation Dashboard
-
-Performance metrics and confusion matrix of the deployed model.
-
-![Model Evaluation](screenshots/model_evaluation.png)
 ```
 
 ---
@@ -272,7 +267,7 @@ Performance metrics and confusion matrix of the deployed model.
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Fake_Job_Detection.git
+git clone https://github.com/Levisquad01/Fake_Job_Detection.git
 ```
 
 Move into the project directory

@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual Environment
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Python caches
+.pytest_cache/
+.mypy_cache/
+
+# Environment variables
+.env
+
+# Build files
+build/
+dist/
+
+# Logs
+*.log
